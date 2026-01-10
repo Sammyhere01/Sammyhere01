@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sammy 👋
 
-<!--
-**Sammyhere01/Sammyhere01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Beginner in automation Development  
 
-Here are some ideas to get you started:
+I am new to coding and currently learning the basics of automation development.  
+This GitHub shows my learning progress and practice work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📘 Currently Learning
+- PYTHON (basics)
+- HTML (basics)
+- CSS (basics)
+  
+---
+
+## 🎯 Goal
+- Learn step by step
+- Build simple websites
+- Improve every day
+
+---
+
+⭐ Everyone starts as a beginner. This is my start.
